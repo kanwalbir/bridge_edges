@@ -1,6 +1,6 @@
-#-----------------------------------------------------------------------------#
-#                            Bridge Edges                                     #
-#-----------------------------------------------------------------------------#
+#-------------------------------------------------------#
+#                            Bridge Edges               #
+#-------------------------------------------------------#
 
 PROBLEM: Find the bridge edges of a connected graph.
 
@@ -20,4 +20,4 @@ SOLUTION: The solution is implemented using the following algorithm suggested by
 SOURCE: http://en.wikipedia.org/wiki/Bridge_(graph_theory)
 
 IMPLEMENTATION: python main.py
-#-----------------------------------------------------------------------------#
+#-------------------------------------------------------#
